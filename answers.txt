@@ -5,3 +5,8 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: The field of healthcare could use data science to help match people with the care they need.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging makes the 2 versions into 1 version, while rebasing moves the second branch onto the first so it's
+ 
+it's like it's like it has been been there all along. 
